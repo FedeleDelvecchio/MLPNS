@@ -1,1 +1,1 @@
-Il file del midterm è quello sopra "Midterm.py"
+Il file del midterm è quello sopra "Midterm.ipnb"
